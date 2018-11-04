@@ -15,6 +15,7 @@ An Empirical Study on the Impact of Refactoring Activities on Evolving Client-Us
 ReplicationPackage.rar (check repository)
 jarBinaries.rar (taken from Maven)
 Note that for all data, we first downloaded an offline copy of the original data before extraction.
+https://zenodo.org/record/1477502#.W95qLJP7R9A
 
 **Mining Tools and Libraries:**
 
